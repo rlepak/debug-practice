@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="debug5" />
+        <module name="debug6" />
+        <module name="debug3" />
+        <module name="debug4" />
+        <module name="debug1" />
+        <module name="debug2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="debug1" target="11" />
+      <module name="debug2" target="11" />
+      <module name="debug3" target="11" />
+      <module name="debug4" target="11" />
+      <module name="debug5" target="11" />
+      <module name="debug6" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="debug1" options="-parameters" />
+      <module name="debug2" options="-parameters" />
+      <module name="debug3" options="-parameters" />
+      <module name="debug4" options="-parameters" />
+      <module name="debug5" options="-parameters" />
+      <module name="debug6" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/debug1/debug1.iml" filepath="$PROJECT_DIR$/debug1/debug1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug2/debug2.iml" filepath="$PROJECT_DIR$/debug2/debug2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug3/debug3.iml" filepath="$PROJECT_DIR$/debug3/debug3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug4/debug4.iml" filepath="$PROJECT_DIR$/debug4/debug4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug5/debug5.iml" filepath="$PROJECT_DIR$/debug5/debug5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debug6/debug6.iml" filepath="$PROJECT_DIR$/debug6/debug6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jd-debug-practices.iml" filepath="$PROJECT_DIR$/.idea/jd-debug-practices.iml" />
+    </modules>
+  </component>
+</project>
