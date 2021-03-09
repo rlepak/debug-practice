@@ -20,6 +20,7 @@ public class Debug1Application {
     @Bean
     public BCryptPasswordEncoder passwordEncoder(){
         return new BCryptPasswordEncoder();
+//        return new BCryptPasswordEncoder();
     }
 
 }
