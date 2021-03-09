@@ -7,11 +7,12 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 @SpringBootApplication
-public class Debug1Application {
+public class Debug2Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Debug1Application.class, args);
+        SpringApplication.run(Debug2Application.class, args);
     }
+
     @Bean
     public ModelMapper modelMapper(){
         return new ModelMapper();
