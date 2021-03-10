@@ -52,7 +52,6 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public void save(UserDTO dto) {
-
         User foundUser = userRepository.findByUserName(dto.getUserName());
         dto.setEnabled(true);
 

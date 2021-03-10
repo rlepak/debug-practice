@@ -9,8 +9,8 @@
         <module name="debug5" />
         <module name="debug6" />
         <module name="debug3" />
-        <module name="debug4" />
         <module name="debug" />
+        <module name="debug4" />
         <module name="debug2" />
       </profile>
     </annotationProcessing>
